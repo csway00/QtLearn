@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>5ad09c880654c_610.jpg</file>
+        <file>btn.jpg</file>
+        <file>hook.png</file>
+        <file alias="1">down.png</file>
+        <file alias="0">up.png</file>
+    </qresource>
+</RCC>

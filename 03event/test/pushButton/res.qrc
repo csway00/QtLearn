@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>hook.png</file>
+        <file>revoke.jpg</file>
+        <file>revoke.png</file>
+    </qresource>
+</RCC>

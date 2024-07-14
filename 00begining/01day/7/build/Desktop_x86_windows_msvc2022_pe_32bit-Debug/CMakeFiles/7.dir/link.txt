@@ -1,0 +1,3 @@
+F:\QT\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\7.dir/objects.a
+F:\QT\Tools\mingw1120_64\bin\ar.exe qc CMakeFiles\7.dir/objects.a @CMakeFiles\7.dir\objects1.rsp
+F:\QT\Tools\mingw1120_64\bin\g++.exe -DQT_QML_DEBUG -g -mwindows -Wl,--whole-archive CMakeFiles\7.dir/objects.a -Wl,--no-whole-archive -o 7.exe -Wl,--out-implib,lib7.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\7.dir\linkLibs.rsp

@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fork.jpg</file>
+        <file>hook.png</file>
+    </qresource>
+</RCC>
